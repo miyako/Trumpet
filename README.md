@@ -1,2 +1,3 @@
 # ラッパ🎺
-dependency demo
+
+**dependencies**: none
