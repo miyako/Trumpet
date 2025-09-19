@@ -1,6 +1,7 @@
 property name : Text
 property version : Text
 property description : Text
+property apple : cs:C1710.Apple.Info
 
 Class constructor
 	
@@ -17,3 +18,4 @@ Class constructor
 		This:C1470.description:=$packageJson.description
 	End if 
 	
+	This:C1470.apple:=cs:C1710.Apple.Info.new()
