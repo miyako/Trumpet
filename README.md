@@ -1,6 +1,6 @@
 # ラッパ🎺
 
-[dependencies.json](https://github.com/miyako/Trumpet/blob/main/Trumpet/Project/Sources/dependencies.json)
+[`dependencies.json`](https://github.com/miyako/Trumpet/blob/main/Trumpet/Project/Sources/dependencies.json)
 
 ## CI/CD
 
