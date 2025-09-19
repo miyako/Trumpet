@@ -1,3 +1,1 @@
 # ラッパ🎺
-
-**dependencies**: none
