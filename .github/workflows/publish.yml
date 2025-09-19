@@ -65,7 +65,8 @@ jobs:
         uses: miyako/4D/.github/actions/build-component@v1
         with:
           project_path: ${{ steps.configure.outputs.project_path }}
-          pack_project: 'false'
+          pack_project: 'true'
+          use_standard_zip: 'true'
 
       - name: setup keychain 
         id: keychain
